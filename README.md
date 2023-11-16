@@ -1,9 +1,9 @@
--  Hi, I’m @WarriorA27
+-  Hi, I’m Nihal Shah
 -  I’m interested in web development
 -  I have already learnt C++,JAVA,HTML,CSS
 -  I currently learning JAVA DSA and JAVASCRIPT.
--  I’m looking to collaborate on open source projects and web development.
--  you can definitely rech me with my email.
+-  I’m looking to collaborate on open source projects and web development. 
+-  you can definitely reach me with my email.
 
 <!---
 WarriorA27/WarriorA27 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
