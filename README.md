@@ -1,7 +1,6 @@
 -  Hi, I’m Nihal Shah
 -  I’m interested in web development
 -  I have already learnt C++,JAVA,HTML,CSS
--  I currently learning JAVA DSA and JAVASCRIPT.
 -  I’m looking to collaborate on open source projects and web development. 
 -  you can definitely reach me with my email.
 
